@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BookApp",
+      "request": "launch",
+      "mainClass": "BookApp",
+      "projectName": "pp-lab-retake_d5bd17af"
+    },
+    {
+      "type": "java",
       "name": "Launch Main",
       "request": "launch",
       "mainClass": "Main",
